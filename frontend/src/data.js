@@ -1,0 +1,60 @@
+const data = {
+    products:[
+        {
+            _id:'1',
+            name:'Pukas Dark',
+            category:'Performance Short Board',
+            image:'/images/pukas-dark.jpg',
+            price: '£699.00',
+            brand:'Pukas',
+            description:'Pukas Dark is a High Performance Short Board',
+        },
+        {
+            _id:'2',
+            name:'Pukas 69er Evo',
+            category:'Performance Short Board',
+            image:'/images/pukas-69er-evo.jpeg',
+            price: '£599.00',
+            brand:'Pukas',
+            description:'Pukas 69er Evo is an Easy Performance Short Board',
+        },
+        {
+            _id:'3',
+            name:'Pukas Noserider',
+            category:'Long Board',
+            image:'/images/pukas-noserider.jpg',
+            price: '£799.00',
+            brand:'Pukas',
+            description:'Pukas Noserider is a Long Board',
+        },
+        {
+            _id:'4',
+            name:'Pukas Dark 4',
+            category:'Performance Short Board',
+            image:'/images/pukas-dark.jpg',
+            price: '£699.00',
+            brand:'Pukas',
+            description:'Pukas Dark 4 is a High Performance Short Board',
+        },
+        {
+            _id:'5',
+            name:'Pukas Dark 5',
+            category:'Performance Short Board',
+            image:'/images/pukas-dark.jpg',
+            price: '£699.00',
+            brand:'Pukas',
+            description:'Pukas Dark 5 is a High Performance Short Board',
+        },
+        {
+            _id:'6',
+            name:'Pukas Dark 6',
+            category:'Performance Short Board',
+            image:'/images/pukas-dark.jpg',
+            price: '£699.00',
+            brand:'Pukas',
+            description:'Pukas Dark 6 is a High Performance Short Board',
+        },
+    ],
+};
+
+export default data;
